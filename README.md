@@ -31,6 +31,7 @@ leetcode-solutions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MananAmabaliya/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MananAmabaliya/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/MananAmabaliya/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -169,6 +170,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MananAmabaliya/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Game Theory
 |  |
 | ------- |
