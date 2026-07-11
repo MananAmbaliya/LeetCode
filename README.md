@@ -23,6 +23,7 @@ leetcode-solutions
 | [0088-merge-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MananAmabaliya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MananAmabaliya/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MananAmabaliya/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MananAmabaliya/LeetCode/tree/master/0204-count-primes) |
@@ -58,6 +59,7 @@ leetcode-solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MananAmabaliya/LeetCode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MananAmabaliya/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -100,6 +102,7 @@ leetcode-solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MananAmabaliya/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MananAmabaliya/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MananAmabaliya/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0287-find-the-duplicate-number) |
