@@ -49,6 +49,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MananAmabaliya/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/MananAmabaliya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/MananAmabaliya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/MananAmabaliya/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MananAmabaliya/LeetCode/tree/master/0217-contains-duplicate) |
@@ -77,6 +78,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/MananAmabaliya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/MananAmabaliya/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
@@ -171,6 +173,7 @@ leetcode-solutions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MananAmabaliya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/MananAmabaliya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MananAmabaliya/LeetCode/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
