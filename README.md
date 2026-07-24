@@ -83,6 +83,7 @@ leetcode-solutions
 | [0168-excel-sheet-column-title](https://github.com/MananAmabaliya/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MananAmabaliya/LeetCode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MananAmabaliya/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
