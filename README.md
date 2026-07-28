@@ -43,6 +43,7 @@ leetcode-solutions
 | [1470-shuffle-the-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1664-ways-to-make-a-fair-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1672-richest-customer-wealth](https://github.com/MananAmabaliya/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/MananAmabaliya/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -215,6 +216,7 @@ leetcode-solutions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MananAmabaliya/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1664-ways-to-make-a-fair-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 ## Game Theory
 |  |
 | ------- |
