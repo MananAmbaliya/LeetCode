@@ -39,6 +39,7 @@ leetcode-solutions
 | [0485-max-consecutive-ones](https://github.com/MananAmabaliya/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/MananAmabaliya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0877-stone-game) |
+| [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MananAmabaliya/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MananAmabaliya/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -159,6 +160,7 @@ leetcode-solutions
 | [0169-majority-element](https://github.com/MananAmabaliya/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MananAmabaliya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -301,4 +303,8 @@ leetcode-solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MananAmabaliya/LeetCode/tree/master/0496-next-greater-element-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
