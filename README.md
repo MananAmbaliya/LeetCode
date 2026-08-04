@@ -53,6 +53,7 @@ leetcode-solutions
 | [1920-build-array-from-permutation](https://github.com/MananAmabaliya/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
+| [3731-find-missing-elements](https://github.com/MananAmabaliya/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ leetcode-solutions
 | [1512-number-of-good-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/MananAmabaliya/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +166,7 @@ leetcode-solutions
 | [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/MananAmabaliya/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
