@@ -26,6 +26,7 @@ leetcode-solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/MananAmabaliya/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MananAmabaliya/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MananAmabaliya/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
@@ -145,6 +146,7 @@ leetcode-solutions
 | [0053-maximum-subarray](https://github.com/MananAmabaliya/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MananAmabaliya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/MananAmabaliya/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0877-stone-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0877-stone-game) |
