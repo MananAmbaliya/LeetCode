@@ -32,6 +32,7 @@ leetcode-solutions
 | [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MananAmabaliya/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/MananAmabaliya/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/MananAmabaliya/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ leetcode-solutions
 | [0169-majority-element](https://github.com/MananAmabaliya/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MananAmabaliya/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/MananAmabaliya/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -317,4 +319,8 @@ leetcode-solutions
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
