@@ -55,6 +55,7 @@ leetcode-solutions
 | [1920-build-array-from-permutation](https://github.com/MananAmabaliya/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
+| [2942-find-words-containing-character](https://github.com/MananAmabaliya/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/MananAmabaliya/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -219,6 +220,7 @@ leetcode-solutions
 | [0344-reverse-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
+| [2942-find-words-containing-character](https://github.com/MananAmabaliya/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MananAmabaliya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
