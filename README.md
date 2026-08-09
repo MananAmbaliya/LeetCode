@@ -44,6 +44,7 @@ leetcode-solutions
 | [0877-stone-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MananAmabaliya/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananAmabaliya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MananAmabaliya/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -71,6 +72,7 @@ leetcode-solutions
 | [0264-ugly-number-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/MananAmabaliya/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananAmabaliya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
@@ -170,6 +172,7 @@ leetcode-solutions
 | [0217-contains-duplicate](https://github.com/MananAmabaliya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananAmabaliya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/MananAmabaliya/LeetCode/tree/master/3731-find-missing-elements) |
@@ -321,6 +324,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananAmabaliya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
