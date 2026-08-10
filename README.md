@@ -89,6 +89,7 @@ leetcode-solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/MananAmabaliya/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -329,4 +330,8 @@ leetcode-solutions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/MananAmabaliya/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
