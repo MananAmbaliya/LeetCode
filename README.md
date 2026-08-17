@@ -82,6 +82,7 @@ leetcode-solutions
 | [1394-find-lucky-integer-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/MananAmabaliya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MananAmabaliya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -235,6 +236,7 @@ leetcode-solutions
 | [0344-reverse-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/MananAmabaliya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2942-find-words-containing-character](https://github.com/MananAmabaliya/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MananAmabaliya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
