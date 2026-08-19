@@ -193,6 +193,7 @@ leetcode-solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MananAmabaliya/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MananAmabaliya/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MananAmabaliya/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -232,6 +233,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MananAmabaliya/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MananAmabaliya/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MananAmabaliya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MananAmabaliya/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -353,4 +355,8 @@ leetcode-solutions
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MananAmabaliya/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
