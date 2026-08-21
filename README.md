@@ -203,6 +203,7 @@ leetcode-solutions
 | [0739-daily-temperatures](https://github.com/MananAmabaliya/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MananAmabaliya/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/MananAmabaliya/LeetCode/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -247,6 +248,7 @@ leetcode-solutions
 | [1796-second-largest-digit-in-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MananAmabaliya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
+| [2390-removing-stars-from-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/MananAmabaliya/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MananAmabaliya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -292,6 +294,7 @@ leetcode-solutions
 | [0682-baseball-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/MananAmabaliya/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MananAmabaliya/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Brainteaser
 |  |
