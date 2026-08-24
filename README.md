@@ -200,6 +200,7 @@ leetcode-solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/MananAmabaliya/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MananAmabaliya/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MananAmabaliya/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/MananAmabaliya/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/MananAmabaliya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MananAmabaliya/LeetCode/tree/master/0739-daily-temperatures) |
@@ -373,4 +374,8 @@ leetcode-solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/MananAmabaliya/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
