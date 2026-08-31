@@ -46,6 +46,7 @@ leetcode-solutions
 | [0739-daily-temperatures](https://github.com/MananAmabaliya/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/MananAmabaliya/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MananAmabaliya/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -165,6 +166,7 @@ leetcode-solutions
 | [0287-find-the-duplicate-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/MananAmabaliya/LeetCode/tree/master/1089-duplicate-zeros) |
 | [2396-strictly-palindromic-number](https://github.com/MananAmabaliya/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
@@ -193,6 +195,7 @@ leetcode-solutions
 | [0217-contains-duplicate](https://github.com/MananAmabaliya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/MananAmabaliya/LeetCode/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananAmabaliya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
