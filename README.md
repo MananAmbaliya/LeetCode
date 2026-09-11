@@ -15,6 +15,7 @@ leetcode-solutions
 | [0035-search-insert-position](https://github.com/MananAmabaliya/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/MananAmabaliya/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/MananAmabaliya/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/MananAmabaliya/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MananAmabaliya/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/MananAmabaliya/LeetCode/tree/master/0056-merge-intervals) |
@@ -125,6 +126,7 @@ leetcode-solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MananAmabaliya/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/MananAmabaliya/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/MananAmabaliya/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
@@ -191,6 +193,7 @@ leetcode-solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MananAmabaliya/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MananAmabaliya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
