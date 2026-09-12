@@ -49,6 +49,7 @@ leetcode-solutions
 | [0739-daily-temperatures](https://github.com/MananAmabaliya/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0896-monotonic-array) |
+| [0946-validate-stack-sequences](https://github.com/MananAmabaliya/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/MananAmabaliya/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -227,6 +228,7 @@ leetcode-solutions
 | [0496-next-greater-element-i](https://github.com/MananAmabaliya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MananAmabaliya/LeetCode/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/MananAmabaliya/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MananAmabaliya/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/MananAmabaliya/LeetCode/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -325,6 +327,7 @@ leetcode-solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/MananAmabaliya/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/MananAmabaliya/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MananAmabaliya/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
