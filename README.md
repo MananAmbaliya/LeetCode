@@ -139,6 +139,7 @@ leetcode-solutions
 | [0263-ugly-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/MananAmabaliya/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MananAmabaliya/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -440,4 +441,8 @@ leetcode-solutions
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/MananAmabaliya/LeetCode/tree/master/0164-maximum-gap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/MananAmabaliya/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
