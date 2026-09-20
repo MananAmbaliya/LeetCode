@@ -291,6 +291,7 @@ leetcode-solutions
 | [2942-find-words-containing-character](https://github.com/MananAmabaliya/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MananAmabaliya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -341,6 +342,7 @@ leetcode-solutions
 | [2073-time-needed-to-buy-tickets](https://github.com/MananAmabaliya/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MananAmabaliya/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Brainteaser
 |  |
 | ------- |
