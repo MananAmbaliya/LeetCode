@@ -50,6 +50,7 @@ leetcode-solutions
 | [0682-baseball-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/MananAmabaliya/LeetCode/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/MananAmabaliya/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -205,6 +206,7 @@ leetcode-solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/MananAmabaliya/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/MananAmabaliya/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
@@ -339,6 +341,7 @@ leetcode-solutions
 | [0498-diagonal-traverse](https://github.com/MananAmabaliya/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/MananAmabaliya/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/MananAmabaliya/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1929-concatenation-of-array) |
