@@ -207,6 +207,7 @@ leetcode-solutions
 | [0152-maximum-product-subarray](https://github.com/MananAmabaliya/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0678-valid-parenthesis-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0877-stone-game) |
 ## Matrix
 |  |
@@ -249,6 +250,7 @@ leetcode-solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/MananAmabaliya/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/MananAmabaliya/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/MananAmabaliya/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MananAmabaliya/LeetCode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/MananAmabaliya/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -301,6 +303,7 @@ leetcode-solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/MananAmabaliya/LeetCode/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MananAmabaliya/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/MananAmabaliya/LeetCode/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/MananAmabaliya/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MananAmabaliya/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -428,6 +431,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/MananAmabaliya/LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MananAmabaliya/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/MananAmabaliya/LeetCode/tree/master/2706-buy-two-chocolates) |
@@ -455,6 +459,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
