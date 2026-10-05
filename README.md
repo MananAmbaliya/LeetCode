@@ -253,6 +253,7 @@ leetcode-solutions
 | [0678-valid-parenthesis-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MananAmabaliya/LeetCode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/MananAmabaliya/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MananAmabaliya/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/MananAmabaliya/LeetCode/tree/master/1544-make-the-string-great) |
@@ -305,6 +306,7 @@ leetcode-solutions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MananAmabaliya/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/MananAmabaliya/LeetCode/tree/master/0819-most-common-word) |
+| [0856-score-of-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/MananAmabaliya/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MananAmabaliya/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/MananAmabaliya/LeetCode/tree/master/1544-make-the-string-great) |
@@ -460,6 +462,7 @@ leetcode-solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
