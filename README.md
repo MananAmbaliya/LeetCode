@@ -328,6 +328,7 @@ leetcode-solutions
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/MananAmabaliya/LeetCode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/MananAmabaliya/LeetCode/tree/master/0461-hamming-distance) |
 ## Counting
 |  |
 | ------- |
