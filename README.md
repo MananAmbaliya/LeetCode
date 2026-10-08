@@ -97,6 +97,7 @@ leetcode-solutions
 | [0202-happy-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MananAmabaliya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/MananAmabaliya/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/MananAmabaliya/LeetCode/tree/master/0389-find-the-difference) |
@@ -230,6 +231,7 @@ leetcode-solutions
 | [0164-maximum-gap](https://github.com/MananAmabaliya/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/MananAmabaliya/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MananAmabaliya/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MananAmabaliya/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/MananAmabaliya/LeetCode/tree/master/0389-find-the-difference) |
@@ -300,6 +302,7 @@ leetcode-solutions
 | [0058-length-of-last-word](https://github.com/MananAmabaliya/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MananAmabaliya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MananAmabaliya/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/MananAmabaliya/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/MananAmabaliya/LeetCode/tree/master/0389-find-the-difference) |
