@@ -176,6 +176,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MananAmabaliya/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/MananAmabaliya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/MananAmabaliya/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MananAmabaliya/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -183,6 +184,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MananAmabaliya/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/MananAmabaliya/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0233-number-of-digit-one) |
 ## Two Pointers
