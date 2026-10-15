@@ -80,6 +80,7 @@ leetcode-solutions
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2706-buy-two-chocolates](https://github.com/MananAmabaliya/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MananAmabaliya/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MananAmabaliya/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/MananAmabaliya/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MananAmabaliya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MananAmabaliya/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -117,6 +118,7 @@ leetcode-solutions
 | [1796-second-largest-digit-in-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MananAmabaliya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MananAmabaliya/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MananAmabaliya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MananAmabaliya/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -524,4 +526,12 @@ leetcode-solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MananAmabaliya/LeetCode/tree/master/0141-linked-list-cycle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MananAmabaliya/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MananAmabaliya/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
