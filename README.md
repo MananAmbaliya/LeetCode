@@ -77,6 +77,7 @@ leetcode-solutions
 | [1929-concatenation-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MananAmabaliya/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MananAmabaliya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MananAmabaliya/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2706-buy-two-chocolates](https://github.com/MananAmabaliya/LeetCode/tree/master/2706-buy-two-chocolates) |
@@ -141,6 +142,7 @@ leetcode-solutions
 | [0287-find-the-duplicate-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/MananAmabaliya/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MananAmabaliya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -254,6 +256,7 @@ leetcode-solutions
 | [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananAmabaliya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MananAmabaliya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/MananAmabaliya/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MananAmabaliya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
