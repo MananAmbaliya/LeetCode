@@ -53,6 +53,7 @@ leetcode-solutions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MananAmabaliya/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0724-find-pivot-index](https://github.com/MananAmabaliya/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/MananAmabaliya/LeetCode/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/MananAmabaliya/LeetCode/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -380,6 +381,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MananAmabaliya/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/MananAmabaliya/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1664-ways-to-make-a-fair-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [3903-smallest-stable-index-i](https://github.com/MananAmabaliya/LeetCode/tree/master/3903-smallest-stable-index-i) |
