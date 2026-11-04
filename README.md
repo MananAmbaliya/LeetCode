@@ -60,6 +60,7 @@ leetcode-solutions
 | [0819-most-common-word](https://github.com/MananAmabaliya/LeetCode/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/MananAmbaliya/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0896-monotonic-array) |
 | [0929-unique-email-addresses](https://github.com/MananAmabaliya/LeetCode/tree/master/0929-unique-email-addresses) |
@@ -149,6 +150,7 @@ leetcode-solutions
 | [0374-guess-number-higher-or-lower](https://github.com/MananAmabaliya/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/MananAmbaliya/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MananAmabaliya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
