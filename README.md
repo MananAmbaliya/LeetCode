@@ -71,6 +71,7 @@ leetcode-solutions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MananAmabaliya/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MananAmabaliya/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananAmabaliya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MananAmbaliya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MananAmabaliya/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -151,6 +152,7 @@ leetcode-solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MananAmbaliya/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MananAmbaliya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MananAmabaliya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -227,6 +229,7 @@ leetcode-solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/MananAmabaliya/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MananAmbaliya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/MananAmabaliya/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
@@ -269,6 +272,7 @@ leetcode-solutions
 | [0977-squares-of-a-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/MananAmabaliya/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananAmabaliya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MananAmbaliya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MananAmabaliya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/MananAmabaliya/LeetCode/tree/master/2706-buy-two-chocolates) |
