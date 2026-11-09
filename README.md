@@ -174,6 +174,7 @@ leetcode-solutions
 | [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/MananAmabaliya/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/MananAmbaliya/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -211,6 +212,7 @@ leetcode-solutions
 | [0021-merge-two-sorted-lists](https://github.com/MananAmabaliya/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/MananAmabaliya/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/MananAmbaliya/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0233-number-of-digit-one) |
 ## Two Pointers
 |  |
@@ -372,6 +374,7 @@ leetcode-solutions
 | ------- |
 | [0136-single-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/MananAmbaliya/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/MananAmabaliya/LeetCode/tree/master/0389-find-the-difference) |
