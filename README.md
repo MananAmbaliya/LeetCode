@@ -97,6 +97,7 @@ leetcode-solutions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MananAmabaliya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MananAmabaliya/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MananAmbaliya/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/MananAmbaliya/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MananAmabaliya/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MananAmabaliya/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/MananAmabaliya/LeetCode/tree/master/3731-find-missing-elements) |
@@ -414,6 +415,7 @@ leetcode-solutions
 | [0724-find-pivot-index](https://github.com/MananAmabaliya/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1664-ways-to-make-a-fair-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/MananAmbaliya/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/MananAmabaliya/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Game Theory
 |  |
@@ -518,6 +520,7 @@ leetcode-solutions
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MananAmabaliya/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MananAmbaliya/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2747-count-zero-request-servers](https://github.com/MananAmbaliya/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/MananAmbaliya/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Interactive
 |  |
 | ------- |
