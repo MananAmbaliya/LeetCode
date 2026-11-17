@@ -83,6 +83,7 @@ leetcode-solutions
 | [1512-number-of-good-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1664-ways-to-make-a-fair-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1672-richest-customer-wealth](https://github.com/MananAmabaliya/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/MananAmbaliya/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/MananAmabaliya/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -134,6 +135,7 @@ leetcode-solutions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MananAmabaliya/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/MananAmbaliya/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MananAmabaliya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
@@ -399,6 +401,7 @@ leetcode-solutions
 | [0819-most-common-word](https://github.com/MananAmabaliya/LeetCode/tree/master/0819-most-common-word) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/MananAmbaliya/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
