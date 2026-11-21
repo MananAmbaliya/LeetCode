@@ -57,6 +57,7 @@ leetcode-solutions
 | [0498-diagonal-traverse](https://github.com/MananAmabaliya/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MananAmabaliya/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/MananAmbaliya/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/MananAmabaliya/LeetCode/tree/master/0724-find-pivot-index) |
@@ -531,6 +532,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/MananAmbaliya/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/MananAmbaliya/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MananAmabaliya/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MananAmbaliya/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
