@@ -381,6 +381,7 @@ leetcode-solutions
 | [1796-second-largest-digit-in-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MananAmabaliya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/MananAmabaliya/LeetCode/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/MananAmbaliya/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MananAmbaliya/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2284-sender-with-largest-word-count](https://github.com/MananAmabaliya/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2390-removing-stars-from-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/2390-removing-stars-from-a-string) |
