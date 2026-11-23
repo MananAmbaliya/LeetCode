@@ -197,6 +197,7 @@ leetcode-solutions
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MananAmbaliya/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/MananAmabaliya/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MananAmbaliya/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MananAmabaliya/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/MananAmabaliya/LeetCode/tree/master/1927-sum-game) |
@@ -374,6 +375,7 @@ leetcode-solutions
 | [0856-score-of-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/MananAmabaliya/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MananAmabaliya/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MananAmbaliya/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MananAmbaliya/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/MananAmabaliya/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MananAmabaliya/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -588,10 +590,12 @@ leetcode-solutions
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MananAmbaliya/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MananAmbaliya/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
