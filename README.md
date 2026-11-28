@@ -372,6 +372,7 @@ leetcode-solutions
 | [0344-reverse-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/MananAmabaliya/LeetCode/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/MananAmbaliya/LeetCode/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MananAmabaliya/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/MananAmabaliya/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/MananAmabaliya/LeetCode/tree/master/0819-most-common-word) |
